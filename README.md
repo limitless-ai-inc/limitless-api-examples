@@ -114,3 +114,7 @@ For more information on the API, see the [documentation](https://limitless.ai/de
 ## 🛟 Support
 
 If you need help, join our [Slack community](https://www.limitless.ai/community), follow us on [X/Twitter](https://twitter.com/limitlessai), or [email us](mailto:support@limitless.ai).
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).

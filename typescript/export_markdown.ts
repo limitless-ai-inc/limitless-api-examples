@@ -1,3 +1,6 @@
+// Copyright (c) 2025 Limitless AI, Inc.
+// Licensed under the MIT License. See LICENSE in the root directory.
+
 import dotenv from "dotenv";
 import { getLifelogs } from "./_client";
 

@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Limitless AI, Inc.
+# Licensed under the MIT License. See LICENSE in the root directory.
+
 import os
 import requests
 import tzlocal
