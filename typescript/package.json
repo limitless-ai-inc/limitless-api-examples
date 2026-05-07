@@ -10,7 +10,7 @@
     "summarize-day": "ts-node summarize_day.ts"
   },
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.15.2",
     "dotenv": "^16.4.5",
     "moment-timezone": "^0.5.45",
     "openai": "^4.28.0"
