@@ -1,4 +1,4 @@
-// Copyright (c) 2025 Limitless AI, Inc.
+// Copyright (c) Meta Platforms, Inc. and affiliates.
 // Licensed under the MIT License. See LICENSE in the root directory.
 
 import dotenv from "dotenv";
